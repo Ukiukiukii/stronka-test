@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Testowa strona</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Moja testowa strona 🚀</h1>
+    <p id="tekst">Kliknij przycisk, żeby zmienić tekst</p>
+
+    <button onclick="zmienTekst()">Kliknij mnie</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
